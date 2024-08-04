@@ -1,0 +1,16 @@
+body{
+    background-color: #a4d6e5
+}
+.container {
+    position: relative;
+    text-align: center;
+    padding-bottom: 1.5%;
+}
+.bottom-centered{
+    position: absolute;
+    bottom: 75%; 
+    left: 42.5%;
+  }
+a{
+    padding: 1%;
+}
